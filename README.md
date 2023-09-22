@@ -1,3 +1,3 @@
-# Aplikasi Kasir Restoran
+# Sistem informasi Penjualan Bakso
 
-Projek Website Kasir Restoran menggunakan PHP Native dan Bootstrap
+Projek Website penjualan bakso menggunakan PHP Native dan Bootstrap
